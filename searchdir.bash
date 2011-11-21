@@ -3,7 +3,7 @@
 # searchdir
 # version 0.2
 #
-# Copyright (c) 2010, Mark Busby <www.BusbyFreelance.com>
+# Copyright (c) 2010, Mark Busby <www.BusbyCreations.com>
 #
 # This software is provided 'as-is', without any express or implied
 # warranty.  In no event will the authors be held liable for any damages
